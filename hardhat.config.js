@@ -9,7 +9,7 @@ module.exports = {
     
     theta: {
       url: "https://eth-rpc-api-testnet.thetatoken.org/rpc",
-      accounts: ["private key "]
+      accounts: [process.env.PK]
     }
   }
 };
