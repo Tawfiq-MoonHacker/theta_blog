@@ -19,7 +19,7 @@ npx hardhat node
 3. Deploy to localhost
 
 ```sh
-npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network theta
 ```
 
 4. Start the app
