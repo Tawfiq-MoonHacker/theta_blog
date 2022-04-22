@@ -1,6 +1,5 @@
-## A full stack web3 on-chain blog and CMS
+## Blog Dapp
 
-> This codebase goes along with my tutorial [The Complete Guide To Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
 To deploy this app:
 
